@@ -21,7 +21,7 @@ Flutter로 구현한 간단한 스톱워치 앱입니다.
 
 # 1. Initial screen
 
-<img src="https://user-images.githubusercontent.com/120641012/227134096-1e701e0e-9e6b-4c62-87dc-c951065341f7.jpg" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/120641012/227134096-1e701e0e-9e6b-4c62-87dc-c951065341f7.jpg" width="250" height="550"/>
 
 # 2. Play screen
 
