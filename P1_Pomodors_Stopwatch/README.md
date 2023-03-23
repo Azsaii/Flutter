@@ -25,11 +25,11 @@ Flutter로 구현한 간단한 스톱워치 앱입니다.
 
 # 2. Play screen
 
-![play](https://user-images.githubusercontent.com/120641012/227134100-b3eef835-cfe1-4c18-bdc8-59deee0616ad.jpg)
+<img src="https://user-images.githubusercontent.com/120641012/227134100-b3eef835-cfe1-4c18-bdc8-59deee0616ad.jpg" width="250" height="500"/>
 
 # 3. Stop screen
 
-![stop](https://user-images.githubusercontent.com/120641012/227134117-77b01256-765a-4fc0-a8ed-c5ad2c9bd318.jpg)
+<img src="https://user-images.githubusercontent.com/120641012/227134117-77b01256-765a-4fc0-a8ed-c5ad2c9bd318.jpg" width="250" height="500"/>
 
 # Pomodoro Technique
 
