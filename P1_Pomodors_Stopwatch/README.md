@@ -15,18 +15,21 @@ Flutter로 구현한 간단한 스톱워치 앱입니다.
 # 참고
 
 노마드 코더의 'Flutter로 웹툰 앱 만들기' 강의
+![start](https://user-images.githubusercontent.com/120641012/227134096-1e701e0e-9e6b-4c62-87dc-c951065341f7.jpg)
+![play](https://user-images.githubusercontent.com/120641012/227134100-b3eef835-cfe1-4c18-bdc8-59deee0616ad.jpg)
+![stop](https://user-images.githubusercontent.com/120641012/227134117-77b01256-765a-4fc0-a8ed-c5ad2c9bd318.jpg)
 
 # 1. Initial screen
 
-https://user-images.githubusercontent.com/120641012/227133347-16210c28-e244-4327-bb57-3d8e6535a31b.jpg
+![start](https://user-images.githubusercontent.com/120641012/227134096-1e701e0e-9e6b-4c62-87dc-c951065341f7.jpg)
 
 # 2. Play screen
 
-https://user-images.githubusercontent.com/120641012/227133355-d02d8e11-a3ca-405d-a227-db6b326c2113.jpg
+![play](https://user-images.githubusercontent.com/120641012/227134100-b3eef835-cfe1-4c18-bdc8-59deee0616ad.jpg)
 
 # 3. Stop screen
 
-https://user-images.githubusercontent.com/120641012/227133373-28b74c2f-1561-462f-8284-c928115c0e83.jpg
+![stop](https://user-images.githubusercontent.com/120641012/227134117-77b01256-765a-4fc0-a8ed-c5ad2c9bd318.jpg)
 
 # Pomodoro Technique
 
