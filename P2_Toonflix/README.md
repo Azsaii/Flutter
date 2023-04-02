@@ -17,11 +17,11 @@ Flutter로 구현한 오늘의 웹툰을 보여주는 앱입니다.
 
 # 2. 웹툰 상세정보 화면
 
-<img src="https://user-images.githubusercontent.com/120641012/229350455-c2971908-5a45-421e-83fb-7c3a067f575d.PNG" width="250" height="550"/>
+<img src="https://user-images.githubusercontent.com/120641012/229350455-c2971908-5a45-421e-83fb-7c3a067f575d.PNG" width="320" height="550"/>
 
 # 3. 네이버 웹툰 전체보기 버튼 클릭 시 화면
 
-<img src="https://user-images.githubusercontent.com/120641012/229350462-6834364f-c0e5-48b7-94f5-e8c6843b97aa.PNG" width="250" height="550"/>
+<img src="https://user-images.githubusercontent.com/120641012/229350462-6834364f-c0e5-48b7-94f5-e8c6843b97aa.PNG" width="320" height="550"/>
 
 
 # Reference
