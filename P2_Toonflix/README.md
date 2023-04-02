@@ -1,4 +1,4 @@
-# P1_Pomodors_Stopwatch
+# P2_Toonflix
 
 Flutter로 구현한 오늘의 웹툰을 보여주는 앱입니다.
 
