@@ -13,7 +13,7 @@ Flutter로 구현한 오늘의 웹툰을 보여주는 앱입니다.
 
 # 1. 첫 화면
 
-<img src="https://user-images.githubusercontent.com/120641012/229350461-82851519-9651-44e5-bff7-a18bc542d8ba.PNG" width="250" height="550"/>
+<img src="https://user-images.githubusercontent.com/120641012/229350461-82851519-9651-44e5-bff7-a18bc542d8ba.PNG" width="300" height="550"/>
 
 # 2. 웹툰 상세정보 화면
 
