@@ -11,15 +11,15 @@ Flutter로 구현한 간단한 스톱워치 앱입니다.
 3. 초시계 초기화
 4. 초시계가 0이 되었을 때 하단의 Pomodors 증가
 
-# 1. Initial screen
+# 1. 시작 화면
 
 <img src="https://user-images.githubusercontent.com/120641012/227134096-1e701e0e-9e6b-4c62-87dc-c951065341f7.jpg" width="250" height="550"/>
 
-# 2. Play screen
+# 2. Play 화면
 
 <img src="https://user-images.githubusercontent.com/120641012/227134100-b3eef835-cfe1-4c18-bdc8-59deee0616ad.jpg" width="250" height="550"/>
 
-# 3. Stop screen
+# 3. Stop 
 
 <img src="https://user-images.githubusercontent.com/120641012/227134117-77b01256-765a-4fc0-a8ed-c5ad2c9bd318.jpg" width="250" height="550"/>
 
